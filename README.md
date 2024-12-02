@@ -1,2 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/893615754040197201)](https://discord.com/users/893615754040197201)
 [![](https://visitcount.itsvg.in/api?id=MrEntrasil&label=Visualiza%C3%A7%C3%B5es&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
