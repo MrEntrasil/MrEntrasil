@@ -1,5 +1,8 @@
 # 💫 About Me:
-👊Hi! I'm MrEntrasil<br>💻Programmer<br>🗣 C, C++, Lua, JS and TS
+👊Hi! I'm MrEntrasil
+💻Programmer
+🗣 C, C++, Lua, JS and TS
+💵 BTC Donation: bc1q3awauc929zwdm8na6w24dq6z5356974rpsj95k
 
 
 # 💻 Tech Stack:
