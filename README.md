@@ -1,7 +1,7 @@
 # 💫 About Me:
 👊Hi! I'm MrEntrasil<br>
 💻Programmer<br>
-🗣 C, C++, Lua && JS<br>
+🗣 C, C++, Lua && NodeJS<br>
 💵 BTC Address: bc1qk3dy6nnynzh5tl0yxyl8wu52x4d2c3l28exjsu
 
 # 💻 Tech Stack:
